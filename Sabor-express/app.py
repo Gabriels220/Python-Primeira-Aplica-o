@@ -5,7 +5,7 @@ restaurantes = [{'nome':'Sal e Brasa', 'categoria':'churrascaria', 'ativo':True}
                 {'nome':'Pezão', 'categoria':'bar', 'ativo':True}]
 
 def exibir_nome_do_programa():
-    '''Essa função exibe o nome do programa'''
+    '''Essa função exibe o nome'''
     print("""
 
 ░██████╗░█████╗░██████╗░░█████╗░██████╗░  ███████╗██╗░░██╗██████╗░██████╗░███████╗░██████╗░██████╗
